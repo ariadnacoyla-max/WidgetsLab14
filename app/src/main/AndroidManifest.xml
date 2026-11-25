@@ -56,6 +56,10 @@
 
         </receiver>
 
+        <activity
+            android:name=".fulbazo.FulbazoActivity"
+            android:exported="false" />
+
     </application>
 
 </manifest>
