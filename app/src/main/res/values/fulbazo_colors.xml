@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fulbazo_background">#101C16</color>
+    <color name="fulbazo_card">#203C29</color>
+    <color name="fulbazo_green">#69E88C</color>
+    <color name="fulbazo_white">#FFFFFF</color>
+</resources>
